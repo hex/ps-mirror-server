@@ -27,7 +27,7 @@ chmod +x mirror-for-photoshop-server-macos-*
 
 ### Windows
 
-**Winget:**
+**Winget (pending approval):**
 
 ```powershell
 winget install Hex.MirrorForPhotoshopServer
@@ -35,7 +35,7 @@ winget install Hex.MirrorForPhotoshopServer
 
 **Direct Download:**
 
-Download `mirror-for-photoshop-server-win-x64.exe` from [releases](https://github.com/hex/mirror-for-photoshop-server/releases) and run it.
+Download `mirror-for-photoshop-server-win-x64.zip` from [releases](https://github.com/hex/mirror-for-photoshop-server/releases), extract, and run the executable.
 
 ## Usage
 
